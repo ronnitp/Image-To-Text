@@ -2,7 +2,7 @@
 This is just a simple program which can be used to extract text from any given image.
 
 
-Ensure to install the following libraries at first:
+Ensure to install the following libraries first:
 1. Opencv
 2. NumPy
 3. Pytesseract
