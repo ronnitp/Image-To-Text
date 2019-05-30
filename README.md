@@ -10,3 +10,7 @@ Ensure to install the following libraries first:
 
 
 After installing the files, make sure to put the source program and the image which is to be converted to text in the same folder.
+
+
+![The final output would look like this:]
+(https://github.com/ronnitp/Image-To-Text/blob/master/final.png)
